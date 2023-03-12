@@ -1,2 +1,2 @@
-# sorting_algorithms
-collection of most sort algorithms
+# algorithms
+collection of most algorithms like sorting, searching etc
