@@ -14,5 +14,5 @@ collection of most algorithms like sorting, searching etc all written in JAVA
 - Selection sort for lists [SelectionSort](https://github.com/spookyhub/algorithms/blob/main/sorting/SelectionSort.java)
 
 ## Encryption algorithms
-- Symmetric encryption algorithm (AES)[https://github.com/spookyhub/algorithms/blob/main/encryption/AES.java]
-- Asymmetric encryption algorithm (RSA)[https://github.com/spookyhub/algorithms/blob/main/encryption/RSA.java]
+- Symmetric encryption algorithm [AES](https://github.com/spookyhub/algorithms/blob/main/encryption/AES.java)
+- Asymmetric encryption algorithm [RSA](https://github.com/spookyhub/algorithms/blob/main/encryption/RSA.java)
